@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @wixxm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+
+<div align="center">
+<h1 align="center">👋 Hi, I’m @wixxm</h1>
+
+</div>
 
 <!---
 wixxm/wixxm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
