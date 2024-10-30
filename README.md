@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1 align="center">👋 Hi, I’m @wixxm</h1>
-<h1 align="center">![kenzo_github_stats](https://github-readme-stats.vercel.app/api?username=wixxm&show_icons=true&theme=merko)</h1>
+<h1 align="center">I love you three thousand✨</h1>
 </div>
 
 <!---
