@@ -1,8 +1,8 @@
 
 
 <div align="center">
-<h1 align="center">👋 Hi, I’m @wixxm</h1>
-<h1 align="center">I love you three thousand✨</h1>
+👋 Hi, I’m @wixxm
+I love you three thousand✨
 </div>
 
 <!---
