@@ -7,9 +7,9 @@
   </a>
 </div>
      
-<div style="margin-top: 10px;">
-    <small>
-      <img src="https://v1.jinrishici.com/all.svg?font-size=24&spacing=6" alt="quote" style="width: 80%; max-width: 400px;">
-    </small>
-  </div>
-</div>
+<br />
+   <small><img src="https://v1.jinrishici.com/all.svg?font-size=24&spacing=6"></small>
+   <br />
+   <br />
+ </div>
+ <br />
