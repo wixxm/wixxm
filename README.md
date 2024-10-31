@@ -7,11 +7,7 @@
   </a>
 </div>
 
-<p align="center">
-  <a href="https://google.com">
-    <img width="100" src="https://github.com/aralroca/aralroca.com/blob/master/src/public/images/logo.svg" alt="logo" />
-  </a>
-</p>
+
 
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://twitter.com/kenzo" target="_blank" style='margin-right:10px'>
