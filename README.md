@@ -7,9 +7,20 @@
   </a>
 </div>
 
-<div style="margin-top: 10px;">
-    <small>
-      <img src="https://v1.jinrishici.com/all.svg?font-size=24&spacing=6" alt="quote" style="width: 80%; max-width: 400px;">
-    </small>
-  </div>
-</div>
+<p align="center">
+  <a href="https://google.com">
+    <img width="100" src="https://github.com/aralroca/aralroca.com/blob/master/src/public/images/logo.svg" alt="logo" />
+  </a>
+</p>
+
+<p align="center" style="margin: -20px 0 30px">
+   <a href="https://twitter.com/kenzo" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
+  </a>
+</p>
+  <br />
+   <small><img src="https://v1.jinrishici.com/all.svg?font-size=24&spacing=6"></small>
+   <br />
+   <br />
+ </div>
+ <br />
