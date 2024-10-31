@@ -7,9 +7,9 @@
 I love you three thousand✨
 </div>
 
-
+<div align="center">
  <small><img src="https://v1.jinrishici.com/all.svg?font-size=24&spacing=6"></small>
-
+</div>
 
 
 <!---
