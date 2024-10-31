@@ -3,7 +3,6 @@
     <h3>👋 Hi，I'm @wixxm </a></h3>
     <p align="center">
         <a I love you three thousand✨">
-            <img src="cat.webp" width="50"/>
         </a>
 
 <div style="margin-top: 15px;">
