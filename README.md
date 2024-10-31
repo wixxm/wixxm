@@ -2,8 +2,8 @@
 
 <div align="center">
 👋 Hi, I’m @wixxm
-
-
+</div>
+<div align="center">
 I love you three thousand✨
 </div>
 
