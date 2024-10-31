@@ -5,9 +5,9 @@
           <h3>    I love you three thousand✨ </a></h3>
         </a>
 
-<div style="margin-top: 15px;">
+<div style="margin-top: 10px;">
     <small>
-      <img src="https://v1.jinrishici.com/all.svg?font-size=24&spacing=6" alt="quote" style="width: 80%; max-width: 500px;">
+      <img src="https://v1.jinrishici.com/all.svg?font-size=24&spacing=6" alt="quote" style="width: 80%; max-width: 400px;">
     </small>
   </div>
 </div>
