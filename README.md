@@ -1,6 +1,6 @@
 
 
-<div align="center">
+<h1 align="center">
 👋 Hi, I’m @wixxm
 </div>
 <div align="center">
