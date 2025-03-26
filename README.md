@@ -7,3 +7,4 @@
   </a>
 </div>
      
+[![wixxm github stats](https://github-readme-stats.vercel.app/api?username=wixxm&theme=vue&&hide=prs,contribs)]
