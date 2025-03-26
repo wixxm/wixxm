@@ -25,13 +25,17 @@
 
 ---
 
-### 📊 Contribution Graph
-![wixxm's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wixxm&theme=github)
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wixxm&theme=onedark&no-bg=true&no-frame=true" />
+</p>
 
 ---
 
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=wixxm&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
+### 📊 Profile Summary Cards
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wixxm&theme=github_dark" />
+</p>
 
 ---
 
