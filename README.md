@@ -8,3 +8,9 @@
 </div>
      
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=wixxm&show_icons=true&title_color=000&icon_color=0099ff&text_color=000&bg_color=ffffff&hide_border=true)
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/wixxm/count.svg" />
+</p>
