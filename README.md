@@ -7,9 +7,3 @@
   </a>
 </div>
      
-<br />
-   <small><img src="https://v1.jinrishici.com/all.svg?font-size=24&spacing=6"></small>
-   <br />
-   <br />
- </div>
- <br />
