@@ -13,11 +13,11 @@
     <tr>
       <td>
         <h3>🌟 GitHub Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=wixxm&show_icons=true&title_color=333&icon_color=0099ff&text_color=333&bg_color=ffffff&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=wixxm&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
       </td>
       <td>
         <h3>🎯 Most Used Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wixxm&layout=compact&hide_border=true&title_color=333&text_color=333" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wixxm&layout=compact&theme=onedark&hide_border=true" alt="Top Langs" />
       </td>
     </tr>
   </table>
@@ -28,13 +28,6 @@
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wixxm&theme=onedark&no-bg=true&no-frame=true" />
-</p>
-
----
-
-### 📊 Profile Summary Cards
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wixxm&theme=github_dark" />
 </p>
 
 ---
