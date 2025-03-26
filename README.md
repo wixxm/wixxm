@@ -7,3 +7,6 @@
   </a>
 </div>
      
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=timerring&count_private=true&show_icons=true&hide_border=true&theme=vue"/>
+</div> 
