@@ -1,0 +1,30 @@
+name: 📊 Update GitHub Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update Stats
+        run: node -e "
+const https=require('https');
+const repo='wixxm/wixxm';
+const token=process.env.GH_TOKEN;
+const opts={hostname:'api.github.com',headers:{'Authorization':'token '+token,'Accept':'application/vnd.github.v3+json'}};
+function get(path){return new Promise((res,rej)=>{let d='';https.get({...opts,path},r=>{r.on('data',c=>d+=c);r.on('end',()=>res(JSON.parse(d)));});});}
+async function main(){
+  const sha=(await get('/repos/'+repo+'/contents/README.md')).sha;
+  const ts=Date.now();
+  const c=Buffer.from('# 👋 Hello, I\\'m wixxm\n\n✨ I love you three thousand ✨\n\n---\n\n## 📊 GitHub Stats\n\n![Stats](https://github-readme-stats.vercel.app/api?username=wixxm&show_icons=true&theme=radical&hide_border=true&v='+ts+')\n\n## 🏆 Top Languages\n\n![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wixxm&layout=compact&theme=radical&hide_border=true&v='+ts+')').toString('base64');
+  const body=JSON.stringify({message:'Update Stats '+new Date().toISOString(),content:c,sha});
+  const req=https.request({...opts,path:'/repos/'+repo+'/contents/README.md',method:'PUT',headers:{'Authorization':'token '+token,'Content-Type':'application/json','Content-Length':Buffer.byteLength(body)}},r=>{let d='';r.on('data',c=>d+=c);r.on('end',()=>console.log('Updated! Status:',r.statusCode));});
+  req.write(body);req.end();
+}
+main().catch(console.error);
+"
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
