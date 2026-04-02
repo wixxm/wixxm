@@ -4,14 +4,6 @@
 
 ---
 
-## 🚀 My Projects
-
-[![wikjxwrt](https://img.shields.io/badge/wikjxwrt-OpenWrt固件-orange?style=for-the-badge&logo=openwrt)](https://github.com/wixxm/wikjxwrt)
-[![wikjxwrt-optimized](https://img.shields.io/badge/wikjxwrt--optimized-优化版编译-blue?style=for-the-badge&logo=github)](https://github.com/wixxm/wikjxwrt-optimized)
-[![OpenWrt-24.10](https://img.shields.io/badge/OpenWrt-24.10源码-green?style=for-the-badge&logo=openwrt)](https://github.com/wixxm/OpenWrt-24.10)
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="left">
