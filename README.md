@@ -1,10 +1,10 @@
 # 👋 你好，我是 wixxm
 
 <p align="center">
-  ✨「I love you three thousand」✨
+  ✨I love you three thousand✨
 </p>
 <p align="center">
-    「在代码的世界里，每个人都是诗人」
+  「在代码的世界里，每个人都是诗人」
 </p>
 
 ---
