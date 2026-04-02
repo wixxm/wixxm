@@ -2,6 +2,7 @@
 
 <p align="center">
   ✨「I love you three thousand」✨
+     「在代码的世界里，每个人都是诗人」
 </p>
 
 ---
@@ -15,17 +16,3 @@
 > 在开源的世界里，寻找属于自己的星光
 
 ---
-
-## 🛠️ 技术栈
-
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenWrt-24.10-orange?style=flat-square&logo=openwrt" />
-  <img src="https://img.shields.io/badge/Bash-4.0-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/GitHub-Actions-blue?style=flat-square&logo=github" />
-</p>
-
----
-
-<p align="center">
-  「在代码的世界里，每个人都是诗人」
-</p>
