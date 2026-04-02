@@ -2,7 +2,6 @@
 
 ✨ I love you three thousand ✨
 
----
 
 <p align="left">
   <img src="https://img.shields.io/badge/OpenWrt-24.10-orange?style=flat-square&logo=openwrt" />
