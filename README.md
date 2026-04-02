@@ -1,7 +1,7 @@
 # 👋 你好，我是 wixxm
 
 <p align="center">
-  <code>「I love you three thousand」</code>
+  ✨「I love you three thousand」✨
 </p>
 
 ---
@@ -26,8 +26,6 @@
 
 ---
 
-## ✨ 偶尔想起的话
-
 <p align="center">
-  <i>✨ 在代码的世界里，每个人都是诗人 ✨</i>
+  「在代码的世界里，每个人都是诗人」
 </p>
