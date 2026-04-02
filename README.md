@@ -4,27 +4,18 @@
 
 ---
 
-<p align="center">
+## 🚀 My Projects
 
-![Follow](https://img.shields.io/github/followers/wixxm?style=social)
-![Stars](https://img.shields.io/github/stars/wixxm?style=social)
-![Repositories](https://img.shields.io/github/repos-user/wixxm?style=social)
-
-</p>
+[![wikjxwrt](https://img.shields.io/badge/wikjxwrt-OpenWrt固件-orange?style=for-the-badge&logo=openwrt)](https://github.com/wixxm/wikjxwrt)
+[![wikjxwrt-optimized](https://img.shields.io/badge/wikjxwrt--optimized-优化版编译-blue?style=for-the-badge&logo=github)](https://github.com/wixxm/wikjxwrt-optimized)
+[![OpenWrt-24.10](https://img.shields.io/badge/OpenWrt-24.10源码-green?style=for-the-badge&logo=openwrt)](https://github.com/wixxm/OpenWrt-24.10)
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/OpenWrt-24.10-orange?style=flat-square&logo=openwrt" />
   <img src="https://img.shields.io/badge/Bash-4.0-green?style=flat-square" />
   <img src="https://img.shields.io/badge/GitHub-Actions-blue?style=flat-square&logo=github" />
 </p>
-
----
-
-## 📂 Top Repositories
-
-[![wikjxwrt](https://github-readme-stats.vercel.app/api/pin/?username=wixxm&repo=wikjxwrt&theme=radical)](https://github.com/wixxm/wikjxwrt)
-[![wikjxwrt-optimized](https://github-readme-stats.vercel.app/api/pin/?username=wixxm&repo=wikjxwrt-optimized&theme=radical)](https://github.com/wixxm/wikjxwrt-optimized)
